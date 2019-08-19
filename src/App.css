@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.parentContainer{
+  margin: 15px;
+}
+.selectPick,
+.selectedDetails{
+margin-top: 10px;
+}
+
+.priceUnavailable{
+  color:#c60000
+}
+.priceAvailable{
+  color:#1d9928
+}
+
+
+
+
